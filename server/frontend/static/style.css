@@ -124,3 +124,9 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-us__text {
+  margin-bottom: 0;
+  color: #00B9CC;
+  padding: 2px 0;
+}
